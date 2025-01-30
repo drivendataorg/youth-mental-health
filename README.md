@@ -34,10 +34,10 @@ Solution code for the two tracks can be found in the `automated-abstraction/` an
 
 | Place | Team or User  | Public Score | Private Score | Summary of Model                           |
 |-------|---------------|--------------|---------------|--------------------------------------------|
-| 1st     | kbrodt | tktk       | 0.8660       | tktk  |
-| 2nd     | D and T | tktk       | 0.8650       | tktk  |
-| 3rd     | dylanliu | tktk       | 0.8636       | tktk  |
-| 4th     | bbb88 | tktk       | 0.8624       | tktk  |
+| 1st     | kbrodt | 0.8706       | 0.8660       | Fine-tuned and performed inference with an ensemble of BigBirg and Longformer models using LoRA  |
+| 2nd     | D and T | 0.8676       | 0.8650       | Fine-tuned and performed  inference with a weighted ensemble of DeBERTa and Longformer models |
+| 3rd     | dylanliu | 0.8690       | 0.8636       | Generated and soft-labeled additional data using Qwen and Mistral, then fine-tuned and performed inference with DeBERTa and Gemma models  |
+| 4th     | bbb88 | 0.8655       | 0.8624       | Generated and soft-labeled additional data using Llama, Phi, Mistral, and Yi, then fine-tuned and performed inference with DeBERTa, Gemma, and Llama models  |
 
 ### Novel Variables Track
 
@@ -46,8 +46,7 @@ Solution code for the two tracks can be found in the `automated-abstraction/` an
 | 1st & midpoint bonus     | verto | Extracted temporal information to determine preceding events and create a time series leading up to a suicide       |
 | 2nd & midpoint bonus     | HealthHackers | Extracted temporal information to determine preceding events and create a time series leading up to a suicide       |
 | 3rd & midpoint bonus     | UM-ATLAS | Extracted temporal information to determine preceding events and create a time series leading up to a suicide       |
-| Midpoint bonus     | jackson5 | Identified panic attacks
-       |
+| Midpoint bonus     | jackson5 | Identified panic attacks  |
 | Midpoint bonus     | MPWARE | Extracted temporal information to determine preceding events and create a time series leading up to a suicide       |
 
 ---
