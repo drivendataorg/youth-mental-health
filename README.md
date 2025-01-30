@@ -5,20 +5,18 @@
 
 
 
-# Youth Mental Health Narratives
+# Youth Mental Health Narratives Challenge
 
 ## Goal of the Competition
 
 Suicide is one of the leading causes of death in the United States for 5-24 year-olds. In order to better understand the circumstances around youth suicides and inform potential interventions, researchers and policymakers rely on several datasets. One key dataset is the [National Violent Death Reporting System (NVDRS)](https://wisqars.cdc.gov/about/nvdrs-data/), which has been tracking information about violent deaths since 2003. The NVDRS dataset is based on law enforcement reports, medical examiner and coroner reports, and death certificates. The NVDRS dataset includes both narrative descriptions of each incident, and common factor variables like precipitating events. The process of generating consistent narratives and accurate factor variables is time-consuming and prone to error.
 
-In this challenge, solvers will help CDC extract information from narratives in the NVDRS, improving both the quality and coverage of the NVDRS dataset. **Higher-quality data can enable researchers across the country to better understand and prevent youth suicides on a national scale.**
+In this challenge, solvers helped the CDC extract information from narratives in the NVDRS, improving both the quality and coverage of the NVDRS dataset. **Higher-quality data can enable researchers across the country to better understand and prevent youth suicides on a national scale.**
 
 This challenge had two tracks:
 
-There are two competition tracks, each with its own associated prizes.
-
-1. In the **Automated Abstraction track**, solvers applied machine learning techniques to automate the population of factor variables from NVDRS' narrative text. The algorithms developed will help streamline the process of manual abstraction and data quality control.
-2. In the **Novel Variables track**, solvers explored the NVDRS narratives and extract novel variables that could be used to advance youth mental health research.
+1. In the **Automated Abstraction track**, solvers applied machine learning techniques to automate the population of factor variables from NVDRS' narrative text. The algorithms developed could help streamline the process of manual abstraction and data quality control.
+2. In the **Novel Variables track**, solvers explored the NVDRS narratives and extracted novel variables that could be used to advance youth mental health research.
 
 ## What's in this Repository
 
