@@ -42,8 +42,8 @@ Solution code for the two tracks can be found in the `automated-abstraction/` an
 | Place | Team or User  | Summary of Approach  |
 |-------|---------------|--------------|
 | 1st & midpoint bonus     | verto | Extracted temporal information to determine preceding events and create a time series leading up to a suicide       |
-| 2nd & midpoint bonus     | HealthHackers | Extracted temporal information to determine preceding events and create a time series leading up to a suicide       |
-| 3rd & midpoint bonus     | UM-ATLAS | Extracted temporal information to determine preceding events and create a time series leading up to a suicide       |
+| 2nd & midpoint bonus     | HealthHackers | Identified common concepts mentioned in the narratives but not yet tracked in the variables       |
+| 3rd & midpoint bonus     | UM-ATLAS | Detected and classified types of online engagement that indicate non-normative behavior       |
 | Midpoint bonus     | jackson5 | Identified panic attacks  |
 | Midpoint bonus     | MPWARE | Extracted temporal information to determine preceding events and create a time series leading up to a suicide       |
 
